@@ -1,0 +1,16 @@
+{
+  "name": "node-js-migrations",
+  "version": "1.0.0",
+  "description": "Aplicação que exemplifica o uso do Sequelize para criação de migrations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Douglas Men",
+  "license": "ISC",
+  "dependencies": {
+    "mysql2": "^2.3.0",
+    "sequelize": "^6.6.5",
+    "sequelize-cli": "^6.2.0"
+  }
+}
